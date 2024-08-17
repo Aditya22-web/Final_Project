@@ -1,0 +1,22 @@
+/* Global styles */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom styles */
+.player-input {
+  margin-bottom: 10px;
+}
+
+.pitch-report {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.player-list {
+  margin-top: 20px;
+}
